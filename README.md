@@ -19,7 +19,7 @@ using Photoshop, `YUI` and `Mojito` (with [Ludovic F.](https://github.com/lazybe
 * **[wedpage](http://chanfardel.herokuapp.com/#main)**: a wedding website
 
 ###Demos of HTML5 Features
-* **slideshows**: using CSS3 `Animation`/`Transform`/`Transition` | [[repo]](https://ide.c9.io/pomme15/slideshows) [[demo]](https://preview.c9.io/pomme15/slideshows/slideshow.html)
+* **slideshows**: using CSS3 `animation`/`transform`/`transition` | [[repo]](https://ide.c9.io/pomme15/slideshows) [[demo]](https://preview.c9.io/pomme15/slideshows/slideshow.html)
 * **2DoList**: using `localStorage` | [[repo]](https://ide.c9.io/pomme15/2dolist) [[demo]](https://preview.c9.io/pomme15/2dolist/2DoList.html)
 * **distance**: using `geolocation` | [[repo]](https://ide.c9.io/pomme15/geolocation) [demo]
 
