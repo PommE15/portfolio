@@ -1,7 +1,7 @@
 Front-end Portfolio (mid-2012 to 2014)
 ===========
 
-* **ng-karaoke:** a learning app using `AngularJS` | [[repo]](https://github.com/PommE15/ng-karaoke/tree/gh-pages/app) [[demo]](http://pomme15.github.io/ng-karaoke/app/#/template3/aufuns)
+* **ng-karaoke:** a learning app using `AngularJS` | [[repo]](https://github.com/PommE15/ng-karaoke/tree/gh-pages/app) [[demo]](http://pomme15.github.io/ng-karaoke/app)
 * **SwingManiak:** a music website using HTML5 `audio` and CSS `media query` | [[repo]](https://github.com/PommE15/swingmaniak) [[site]](http://swingmaniak.ch)
 
 ###Demos collected from my jsbin/plunkr
