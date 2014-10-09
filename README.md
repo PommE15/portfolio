@@ -15,7 +15,7 @@ Front-end Portfolio (mid-2012 to 2014)
 
 ###Home projects: 
 using Photoshop, `YUI` and `Mojito` (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
-* **[thxcard](http://pomme15.github.io/thxcard-dodolab)**: an interactive thanks card
+* **[thxcard](http://pomme15.github.io/thxcard-dodopom)**: an interactive thanks card
 * **[wedpage](http://chanfardel.herokuapp.com/#main)**: a wedding website
 
 ###Demos of HTML5 Features
