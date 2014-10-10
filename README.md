@@ -1,6 +1,7 @@
 Front-end Portfolio (mid-2012 to 2014)
 ===========
 
+* **[dodolab.tumblr.com](http://dodolab.tumblr.com/)**
 * **ng-karaoke:** a learning app using `AngularJS` | [[repo]](https://github.com/PommE15/ng-karaoke/tree/gh-pages/app) [[demo]](http://pomme15.github.io/ng-karaoke/app)
 * **SwingManiak:** a music website using HTML5 `audio` and CSS `media query` | [[repo]](https://github.com/PommE15/swingmaniak) [[site]](http://swingmaniak.ch)
 
@@ -9,9 +10,10 @@ Front-end Portfolio (mid-2012 to 2014)
 * Layout: [3-column (float)](http://jsbin.com/yicon/7/edit?html,css,output), [panel navigation](http://plnkr.co/edit/Yiwerr?p=preview)
 * Math: [gcd()](http://jsbin.com/hehaca/1/edit); [sumEvenFibonacci()](http://jsbin.com/honome/3/edit?js,console), [largestPrimeFactor()](http://jsbin.com/ruboq/1/edit?js,console) @ProjectEuler
 
-###Event projects (in 24hr):
-* **[A Trip with Yahoo Stack](http://hacks.developer.yahoo.com/hack/yahoo-hack-europe-london/yoo-travel/event_9/hack_568)** @2013_Yahoo!_Hack_Europe:_London
-* **A [POC](http://lazybean.github.io/startupWE2012/view) for Fair Travel** @Startup_Weekend_Lausanne_2013 (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
+###Event projects (in 24hr, with [Ludovic F.](https://github.com/lazybean?tab=repositories)):
+* **[Tube Art](http://pomme15.github.io/voronoi-maps/examples/stations/)** @2014_SohoHouse_Hackathon_London
+* **[A Trip with Yahoo Stack](http://hacks.developer.yahoo.com/hack/yahoo-hack-europe-london/yoo-travel/event_9/hack_568)** @2013_Yahoo!_Hack_Europe_London
+* **A [POC](http://lazybean.github.io/startupWE2012/view) for Fair Travel** @2013_Startup_Weekend_Lausanne
 
 ###Home projects: 
 using Photoshop, `YUI` and `Mojito` (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
