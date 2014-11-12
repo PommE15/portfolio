@@ -1,7 +1,7 @@
 Front-end Portfolio (mid-2012 to 2014)
 ===========
 
-* **[dodolab.tumblr.com](http://dodolab.tumblr.com/)**
+* **dataVis**: a [timeline](http://jsbin.com/buziva) of 9in1 elections, a [blog/note](http://dodolab.tumblr.com/) about visualization
 * **ng-karaoke:** a learning app using `AngularJS` | [[repo]](https://github.com/PommE15/ng-karaoke/tree/gh-pages/app) [[demo]](http://pomme15.github.io/ng-karaoke/app)
 * **SwingManiak:** a music website using HTML5 `audio` and CSS `media query` | [[repo]](https://github.com/PommE15/swingmaniak) [[site]](http://swingmaniak.ch)
 
