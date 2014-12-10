@@ -1,34 +1,50 @@
-Front-end Portfolio (mid-2012 to 2014)
+Front-end Development (JavaScript, CSS, HTML)
 ===========
 
-* **dataVis**: 
-  * a [timeline](http://jsbin.com/buziva) of 9in1 elections
-  * a [map and pie chart](http://pomme15.github.io/election-map/index.html) to show a fact of village election: 38% quota has only one candidate 
-  * a [blog](http://dodolab.tumblr.com/) about data visualization
-  * a [note](http://seedpom.tumblr.com) about development
-* **ng-karaoke:** a learning app using `AngularJS` | [[repo]](https://github.com/PommE15/ng-karaoke/tree/gh-pages/app) [[demo]](http://pomme15.github.io/ng-karaoke/app)
-* **SwingManiak:** a music website using HTML5 `audio` and CSS `media query` | [[repo]](https://github.com/PommE15/swingmaniak) [[site]](http://swingmaniak.ch)
+### Data Visualization: using D3.js
+- a [**Timeline**](http://jsbin.com/buziva) of 9in1 elections
+- a [**Geomapping and Pie Chart**](http://pomme15.github.io/election-map/index.html) to show a fact of village election: 38% quota has only one candidate 
+- my [notes](http://dodolab.tumblr.com/) about data visualization
 
-###Demos collected from my jsbin/plunkr
-* UI: tab [[1]](http://plnkr.co/edit/fA80SHd6cdtqNkXZG5ne?p=preview) [[2]](http://plnkr.co/edit/jKWZtd2JP2oy9ILSU3xy?p=preview), dropdown [[typeahead]](http://plnkr.co/edit/VO84kAFmyxsPcJBYderI?p=preview), [[single]](http://plnkr.co/edit/i217Md?p=preview)/[multi] in-place editor 
-* Layout: [3-column (float)](http://jsbin.com/yicon/7/edit?html,css,output), [panel navigation](http://plnkr.co/edit/Yiwerr?p=preview)
-* Math: [gcd()](http://jsbin.com/hehaca/1/edit); [sumEvenFibonacci()](http://jsbin.com/honome/3/edit?js,console), [largestPrimeFactor()](http://jsbin.com/ruboq/1/edit?js,console) @ProjectEuler
+### Web App/Site with Responsive Design:
+- [**ng-karaoke:**](http://pomme15.github.io/ng-karaoke/app/#/template3/aufuns) 
+  an application for language learning through songs, 
+  using `Bootstrap3` and `AngularJS` frameworks.
+- [**SwingManiak:**](http://pomme15.github.io/swingmaniak) 
+  a site of a music band, using HTML5 `audio`, CSS3 `media query`, 
+  and pure JavaScript (no library/framework).
 
-###Event projects (in 24hr, with [Ludovic F.](https://github.com/lazybean?tab=repositories)):
-* **[Tube Art](http://pomme15.github.io/voronoi-maps/examples/stations/)** @2014_SohoHouse_Hackathon_London
-* **[A Trip with Yahoo Stack](http://hacks.developer.yahoo.com/hack/yahoo-hack-europe-london/yoo-travel/event_9/hack_568)** @2013_Yahoo!_Hack_Europe_London
-* **A [POC](http://lazybean.github.io/startupWE2012/view) for Fair Travel** @2013_Startup_Weekend_Lausanne
+### UI Components
+##### Demos collected form my jsbin/plunkr:
+- layout: 
+  [3 column (float)](http://jsbin.com/yicon/7/edit?html,css,output), 
+  [panel navigation](http://plnkr.co/edit/Yiwerr?p=preview)
+- dropdown: 
+  [buttons](http://embed.plnkr.co/VSBCWNKFDhs3gp4f1gHR/preview),
+  [typeahead](http://plnkr.co/edit/VO84kAFmyxsPcJBYderI?p=preview)
+- in-place editor: [single](http://plnkr.co/edit/i217Md?p=preview), ...
+- [tab navigation](http://embed.plnkr.co/fA80SHd6cdtqNkXZG5ne/preview)
+- [modal dialog](http://embed.plnkr.co/Z43tWC9GglqrEzwMf9h4/preview)
+- [form](http://plnkr.co/edit/yiTrlQDpWmM7eYe2Q2q3?p=preview)
 
-###Home projects: 
-using Photoshop, `YUI` and `Mojito` (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
-* **[thxcard](http://pomme15.github.io/thxcard-dodopom)**: an interactive thanks card
-* **[wedpage](http://chanfardel.herokuapp.com/#main)**: a wedding website
+### Projects (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
+##### 24hr Events:
+- **[Tube Art](http://pomme15.github.io/voronoi-maps/examples/stations/)** @2014_SohoHouse_Hackathon_London
+- **[A Trip with Yahoo Stack](http://hacks.developer.yahoo.com/hack/yahoo-hack-europe-london/yoo-travel/event_9/hack_568)** @2013_Yahoo!_Hack_Europe_London
+- **A [POC](http://lazybean.github.io/startupWE2012/view) for Fair Travel** @2013_Startup_Weekend_Lausanne
 
-###Demos of HTML5 Features
-* **slideshows**: using CSS3 `animation`/`transform`/`transition` | [[repo]](https://ide.c9.io/pomme15/slideshows) [[demo]](https://preview.c9.io/pomme15/slideshows/slideshow.html)
-* **2DoList**: using `localStorage` | [[repo]](https://ide.c9.io/pomme15/2dolist) [[demo]](https://preview.c9.io/pomme15/2dolist/2DoList.html)
-* **distance**: using `geolocation` | [[repo]](https://ide.c9.io/pomme15/geolocation) [demo]
+##### Home projects: using `YUI` library and `Mojito` framework
+- **[thxcard](http://pomme15.github.io/thxcard-dodopom)**: an interactive thanks card
+- **[wedpage](http://chanfardel.herokuapp.com/#main)**: a wedding website
 
+### Misc
+- my [examples](http://pomme15.wordpress.com/projects/firsthtml5/) of HTML5 features
+- my [notes](http://seedpom.tumblr.com) about front end development
+- Project Euler: 
+  [gcd()](http://jsbin.com/hehaca/1/edit), 
+  [sumEvenFibonacci()](http://jsbin.com/honome/3/edit?js,console),
+  [largestPrimeFactor()](http://jsbin.com/ruboq/1/edit?js,console)
+- functional programming in Javascript
 
 Portfolio (2007 to 2012)
 ===========
