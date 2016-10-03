@@ -3,14 +3,14 @@
 ### Data Visualization
 ##### Using `svg` and `D3.js` library:
 - a [**Timeline**](http://jsbin.com/buziva) of 9in1 elections
-- a [**Geomapping and Pie Chart**](http://pomme15.github.io/election-map/index.html) to show a fact of village election: 38% quota has only one candidate 
+- a [**Geomapping and Pie Chart**](http://pomme15.github.io/d3-electionTW-map/index.html) to show a fact of village election: 38% quota has only one candidate 
 - my [notes](http://dodolab.tumblr.com/) about data visualization
 
 ### Web App/Site with Responsive Design
 - [**ng-karaoke:**](http://pomme15.github.io/ng-karaoke/app/#/template3/aufuns) 
   an application for language learning through songs, 
   using `Bootstrap3` and `AngularJS` frameworks.
-- [**SwingManiak:**](http://pomme15.github.io/swingmaniak) 
+- [**SwingManiak:**](http://pomme15.github.io/dodolab-swingmaniak) 
   a site of a music band, using HTML5 `audio`, CSS3 `media query`, 
   and pure JavaScript (no library/framework).
 
@@ -29,12 +29,12 @@
 
 ### Projects (with [Ludovic F.](https://github.com/lazybean?tab=repositories))
 ##### 24hr Events:
-- **[Tube Art](http://pomme15.github.io/voronoi-maps/examples/stations/)** @2014_SohoHouse_Hackathon_London
+- **[Tube Art](http://pomme15.github.io/yhack2014-map-voronoi/examples/stations/)** @2014_SohoHouse_Hackathon_London
 - **[A Trip with Yahoo Stack](http://hacks.developer.yahoo.com/hack/yahoo-hack-europe-london/yoo-travel/event_9/hack_568)** @2013_Yahoo!_Hack_Europe_London
 - **A [POC](http://lazybean.github.io/startupWE2012/view) for Fair Travel** @2013_Startup_Weekend_Lausanne
 
 ##### Using `YUI` library and `Mojito` framework
-- **[thxcard](http://pomme15.github.io/thxcard-dodopom)**: an interactive thanks card
+- **[thxcard](http://pomme15.github.io/dodolab-thxcard)**: an interactive thanks card
 - **[wedpage](http://chanfardel.herokuapp.com/#main)**: a wedding website
 
 ### Misc
