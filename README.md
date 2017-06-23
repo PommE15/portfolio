@@ -68,8 +68,7 @@ A web app that analyses data input and creates a selection of editable, embeddab
 ## [Fun Phrases](http://pomme15.wordpress.com/projects/funphrases/) (Java)
 
 
-Links
-===========
+# Links
 - **Profile** [@LinkedIn](http://uk.linkedin.com/pub/chia-jung-apple-chan-fardel/31/564/962/)
 - **Online CV/Resume** [@tyba](http://tyba.com/applechanfardel/)
 - **An older list of projects** [@WordPress](http://pomme15.wordpress.com/projects/)
