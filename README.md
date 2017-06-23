@@ -12,8 +12,7 @@ A web app that analyses data input and creates a selection of editable, embeddab
 [[v1 demo](twitter.com/xocasgv/status/719207047003148288)]
 [[v2 code](github.com/guardian/interactive-basichartool)]
 
-### Data Visualization
-##### Using `svg` and `D3.js` library:
+### Data Visualization using `D3.js`
 ##### Projects at the Guardian:
 - [Profile](theguardian.com/profile/chia-jung-apple-c-fardel): 2016 Olympic games, 2015 UK general election, UK house prices interactive, and etc.
 - Witness pages: [Keep it in the ground](theguardian.com/environment/ng-interactive/2015/may/27/keepitintheground-supporters-wellcome-trust-gates-foundation), and etc.
@@ -24,10 +23,10 @@ A web app that analyses data input and creates a selection of editable, embeddab
 - my [notes](http://dodolab.tumblr.com/) about data visualization
 
 ### Web App/Site with Responsive Design
-- [ng-karaoke]:(http://pomme15.github.io/ng-karaoke/app/#/template3/aufuns) 
+- [ng-karaoke](http://pomme15.github.io/ng-karaoke/app/#/template3/aufuns): 
   an application for language learning through songs, 
   using `Bootstrap3` and `AngularJS` frameworks.
-- [SwingManiak]:(http://pomme15.github.io/dodolab-swingmaniak) 
+- [SwingManiak](http://pomme15.github.io/dodolab-swingmaniak): 
   a site of a music band, using HTML5 `audio`, CSS3 `media query`, 
   and pure JavaScript (no library/framework).
 
