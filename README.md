@@ -4,19 +4,19 @@
 - [Traffic sign classifier](github.com/PommE15/SDC-TrafficSignClassifier-P2)
 - [Behavioral cloning](github.com/PommE15/SDC-BehavioralCloning-P3)
 - [Advanced lane finding](github.com/PommE15/SDC-AdvancedLaneLines-P4)
-- Vehicle dectection and tracking
+- [Vehicle dectection and tracking](github.com/PommE15/SDC-VehicleDetection-P5)
 
 ## Front-end Development (JavaScript, CSS, HTML)
 ### Chart Builder
 A web app that analyses data input and creates a selection of editable, embeddable, and responsive charts for daily graphics using `ES6`, `React.js` / `Redux` and `D3.js`.
 [[v1 demo](twitter.com/xocasgv/status/719207047003148288)]
-[[v2 code](github.com/guardian/interactive-basichartool)]
+[[v2 code](github.com/PommE15/basichartool)]
 
 ### Data Visualization using `D3.js`
 ##### Projects at the Guardian:
-- [Profile](theguardian.com/profile/chia-jung-apple-c-fardel): 2016 Olympic games, 2015 UK general election, UK house prices interactive, and etc.
-- Witness pages: [Keep it in the ground](theguardian.com/environment/ng-interactive/2015/may/27/keepitintheground-supporters-wellcome-trust-gates-foundation), and etc.
-- [Mapping London's great plague of 1665](theguardian.com/society/ng-interactive/2015/aug/12/london-great-plague-1665-bills-of-mortality)
+- [Profile](https://www.theguardian.com/profile/chia-jung-apple-c-fardel): 2016 Olympic games, 2015 UK general election, UK house prices interactive, and etc.
+- Witness pages: [Keep it in the ground](https://www.theguardian.com/environment/ng-interactive/2015/may/27/keepitintheground-supporters-wellcome-trust-gates-foundation), and etc.
+- [Mapping London's great plague of 1665](https://www.theguardian.com/society/ng-interactive/2015/aug/12/london-great-plague-1665-bills-of-mortality)
 ##### Pet projects:
 - a [Timeline](http://jsbin.com/buziva) of 9in1 elections
 - a [Geomapping and Pie Chart](http://pomme15.github.io/d3-electionTW-map/index.html) to show a fact of village election: 38% quota has only one candidate 
