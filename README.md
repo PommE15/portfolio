@@ -1,10 +1,10 @@
 ## Self Driving Car (Python)
 ### Term 1 - Computer Vision and Deep Learning
 - [Finding lane lines](https://github.com/PommE15/SDC-LaneLines-P1)
-- [Traffic sign classifier](github.com/PommE15/SDC-TrafficSignClassifier-P2)
-- [Behavioral cloning](github.com/PommE15/SDC-BehavioralCloning-P3)
-- [Advanced lane finding](github.com/PommE15/SDC-AdvancedLaneLines-P4)
-- [Vehicle dectection and tracking](github.com/PommE15/SDC-VehicleDetection-P5)
+- [Traffic sign classifier](https://github.com/PommE15/SDC-TrafficSignClassifier-P2)
+- [Behavioral cloning](https://github.com/PommE15/SDC-BehavioralCloning-P3)
+- [Advanced lane finding](https://github.com/PommE15/SDC-AdvancedLaneLines-P4)
+- [Vehicle dectection and tracking](https://github.com/PommE15/SDC-VehicleDetection-P5)
 
 ## Front-end Development (JavaScript, CSS, HTML)
 ### Chart Builder
