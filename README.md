@@ -1,5 +1,5 @@
 ## Self Driving Car (Python)
-### Term 1 - Computer Vision and Deep Learning
+### Term 1 - Computer Vision and Deep Learning (2017)
 - [Finding lane lines](https://github.com/PommE15/SDC-LaneLines-P1)
 - [Traffic sign classifier](https://github.com/PommE15/SDC-TrafficSignClassifier-P2)
 - [Behavioral cloning](https://github.com/PommE15/SDC-BehavioralCloning-P3)
@@ -7,17 +7,17 @@
 - [Vehicle dectection and tracking](https://github.com/PommE15/SDC-VehicleDetection-P5)
 
 ## Front-end Development (JavaScript, CSS, HTML)
-### Chart Builder
+### Chart Builder (2017)
 A web app that analyses data input and creates a selection of editable, embeddable, and responsive charts for daily graphics using `ES6`, `React.js` / `Redux` and `D3.js`.
 [[v1 demo](twitter.com/xocasgv/status/719207047003148288)]
-[[v2 code](github.com/PommE15/basichartool)]
+[[v2 code](https://github.com/PommE15/basichartool)]
 
 ### Data Visualization using `D3.js`
-##### Projects at the Guardian:
+##### Projects at the Guardian (2015-2016):
 - [Profile](https://www.theguardian.com/profile/chia-jung-apple-c-fardel): 2016 Olympic games, 2015 UK general election, UK house prices interactive, and etc.
 - Witness pages: [Keep it in the ground](https://www.theguardian.com/environment/ng-interactive/2015/may/27/keepitintheground-supporters-wellcome-trust-gates-foundation), and etc.
 - [Mapping London's great plague of 1665](https://www.theguardian.com/society/ng-interactive/2015/aug/12/london-great-plague-1665-bills-of-mortality)
-##### Pet projects:
+##### Pet projects (2014):
 - a [Timeline](http://jsbin.com/buziva) of 9in1 elections
 - a [Geomapping and Pie Chart](http://pomme15.github.io/d3-electionTW-map/index.html) to show a fact of village election: 38% quota has only one candidate 
 - my [notes](http://dodolab.tumblr.com/) about data visualization
@@ -70,6 +70,5 @@ A web app that analyses data input and creates a selection of editable, embeddab
 
 # Links
 - **Profile** [@LinkedIn](http://uk.linkedin.com/pub/chia-jung-apple-chan-fardel/31/564/962/)
-- **Online CV/Resume** [@tyba](http://tyba.com/applechanfardel/)
 - **An older list of projects** [@WordPress](http://pomme15.wordpress.com/projects/)
 - **A graphic design portfolio** [in PDF](http://pomme15.files.wordpress.com/2011/03/design_cjchanapple.pdf)
