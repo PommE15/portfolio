@@ -9,7 +9,7 @@
 ## Front-end Development (JavaScript, CSS, HTML)
 ### Chart Builder (2017)
 A web app that analyses data input and creates a selection of editable, embeddable, and responsive charts for daily graphics using `ES6`, `React.js` / `Redux` and `D3.js`.
-[[v1 demo](twitter.com/xocasgv/status/719207047003148288)]
+[[v1 demo](https://twitter.com/xocasgv/status/719207047003148288)]
 [[v2 code](https://github.com/PommE15/basichartool)]
 
 ### Data Visualization using `D3.js`
